@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portf/static/css/main.1b22d150.css",
-    "main.js": "/portf/static/js/main.eb1ac283.js",
+    "main.js": "/portf/static/js/main.dc4fcf64.js",
     "static/js/453.41811d64.chunk.js": "/portf/static/js/453.41811d64.chunk.js",
     "static/media/homeautomation.jpeg": "/portf/static/media/homeautomation.9d2643d4aeac55a2a042.jpeg",
     "static/media/color-sharp.png": "/portf/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -39,11 +39,11 @@
     "index.html": "/portf/index.html",
     "static/media/nav-icon1.svg": "/portf/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.1b22d150.css.map": "/portf/static/css/main.1b22d150.css.map",
-    "main.eb1ac283.js.map": "/portf/static/js/main.eb1ac283.js.map",
+    "main.dc4fcf64.js.map": "/portf/static/js/main.dc4fcf64.js.map",
     "453.41811d64.chunk.js.map": "/portf/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b22d150.css",
-    "static/js/main.eb1ac283.js"
+    "static/js/main.dc4fcf64.js"
   ]
 }
