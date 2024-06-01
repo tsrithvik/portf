@@ -8,7 +8,7 @@ export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
     const [delta, setDelta] = useState(300); // Define delta and setDelta here
-    const toRotate = [" Web Developer", " Electronics Engineer", " Programmer", " Data Analyst"];
+    const toRotate = ["Electronics Engineer", "Programmer", "Tech Enthusiast"];
     const period = 2000;
 
     useEffect(() => {

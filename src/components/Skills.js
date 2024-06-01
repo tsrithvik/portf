@@ -52,12 +52,12 @@ export const Skills= ()=> {
                             <div className='item'>
                                 <img src={meter1} alt='Image' />
                                 <h5>Java Programming</h5>
-                                <p>Geeks For Geeks</p>
+                                <a href='https://www.geeksforgeeks.org/user/sairithvef5j/' style={{textDecoration: 'none'}}><p>Geeks For Geeks</p></a>
                             </div>
                             <div className='item'>
                                 <img src={meter3} alt='Image' />
                                 <h5>Data Analysis using SQL</h5>
-                                <p>Hacker Rank</p>
+                                <a href='https://www.hackerrank.com/profile/sairithvik1234' style={{textDecoration: 'none'}}><p>Hacker Rank</p></a>
                             </div>
                             <div className='item'>
                                 <img src={meter2} alt='Image' />
