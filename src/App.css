@@ -1,3 +1,20 @@
+/* For tablets */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 20px;
+  }
+}
+
+/* For mobile phones */
+@media (max-width: 480px) {
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+
 /* Custon fonts */
 @font-face{
   font-family: Centra;
